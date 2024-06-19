@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="choose_your_choice">Choose Your Choice</string>
+    <string name="computer_s_choice">Computer\'s Choice</string>
+    <string name="start">Start</string>
+    <string name="your_choice">Your Choice</string>
+    <string name="you_won">You Won 🔥</string>
+    <string name="match_tie">Match Tie ⚖️</string>
+    <string name="you_loss">You Loss 😰</string>
+</resources>
